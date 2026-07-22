@@ -1,0 +1,23 @@
+.idea/
+out/
+defaults.conf
+MusicPlaylistManager.iml
+# OS and IDE metadata
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Java build output
+build/
+dist/
+*.class
+
+# Local application state
+defaults.conf
+
+# User-owned media and playlists must not be committed
+*.mp3
+*.wpl
+music/
+playlists/
