@@ -37,10 +37,6 @@ This repository does **not** distribute songs or commercial album artwork. Use t
 
 Local media paths can be written into saved `.wpl` files, so playlists and application state are ignored by Git. See [`THIRD_PARTY.md`](THIRD_PARTY.md) for dependency attribution.
 
-> Earlier repository history contained demonstration media. Before republishing this sanitized version, remove those files from Git history or create a fresh public repository from the cleaned tree.
-
----
-
 ## Build and Run
 
 ### Prerequisite

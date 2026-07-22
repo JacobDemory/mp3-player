@@ -9,9 +9,9 @@ application can be built without a package manager:
 | JLayer 1.0.1 | Decodes and plays MP3 audio | `lib/jlayer-1.0.1.jar` |
 
 The mp3agic archive includes its MIT license notice. JLayer is distributed by
-the JavaZoom project; confirm and include the upstream license text before
-publishing a downloadable binary release. These libraries were not authored by
-Jacob Demory.
+the JavaZoom project under the GNU Lesser General Public License, as identified
+in the archive's Maven metadata. These libraries were not authored by Jacob
+Demory.
 
 No music recordings or album covers are distributed with this repository.
 Users select audio files they own through the application's file chooser.
