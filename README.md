@@ -31,9 +31,15 @@ The project began as a CMIS202 major project and has since been cleaned into a r
 
 ---
 
+## Application Preview
+
+![Music Playlist Manager interface with no third-party tracks loaded](docs/music-playlist-manager.png)
+
+---
+
 ## Privacy and Media
 
-This repository does **not** distribute songs or commercial album artwork. Use the file chooser to select MP3 files you own or are authorized to use.
+This repository does **not** distribute songs or commercial album artwork. The portfolio screenshot intentionally shows the player without third-party media loaded. Use the file chooser to select MP3 files you own or are authorized to use.
 
 Local media paths can be written into saved `.wpl` files, so playlists and application state are ignored by Git. See [`THIRD_PARTY.md`](THIRD_PARTY.md) for dependency attribution.
 
